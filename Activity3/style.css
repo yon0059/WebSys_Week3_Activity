@@ -1,0 +1,28 @@
+.container {
+    width: 800px;
+    margin: 20px auto;
+}
+
+.image-section {
+    float: right;
+    margin-left: 20px;
+}
+
+.image-section img {
+    width: 200px;
+    height: 150px;
+}
+
+.content-section {
+    margin-right: 220px;
+}
+
+h1 {
+    margin: 0;
+    color: #333;
+}
+
+p {
+    margin: 10px 0;
+    color: #665;
+}
